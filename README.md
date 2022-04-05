@@ -1,8 +1,7 @@
 
 # Condition Variables
 
-Code examples from condition variables chapter. Build by typing `make`;
-run the resulting executable to see how it works. Insert `sleep()` calls
+Code examples from [condition variables chapter](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-cv.pdf). Run the resulting executable to see how it works. Insert `sleep()` calls
 of various lengths to control timing and force bad things to happen.
 
 ## Fork/Join Problem
